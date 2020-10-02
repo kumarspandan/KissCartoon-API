@@ -1,6 +1,6 @@
 .. image:: https://app.codeship.com/projects/f4ea9bc0-04dd-0135-f186-5e3f2d6fab44/status?branch=master
 
-KissCartoon API
+KissCartoon API -(An amazing app)
 ===============
 
 This is unofficial API for `kisscartoon.io <http://kisscartoon.io>`_ website.
